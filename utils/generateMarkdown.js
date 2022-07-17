@@ -36,11 +36,60 @@ function renderLicenseLink(license) {
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+  if (license == 'MIT'){
+    return `## Liscence
+    
+This projected is licensed under MIT.`
+  } else if (license == 'APACHE 2.0'){
+    return `## Liscence
+    
+This projected is licensed under APACHE 2.0.`
+  } else if (license == 'GPL 3.0'){
+    return `## Liscence
+    
+This projected is licensed under GPL 3.0.`
+  }else if (license == 'BSD 3.0'){
+    return `## Liscence
+    
+This projected is licensed under BSD 3.0.`
+  }else if (license == 'Boost'){
+    return `## Liscence
+    
+This projected is licensed under Boost.`
+  }else{
+    return ''
+  }
+};
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ${renderLicenseBadge(data.license)}
+
+  ## Description
+
+  ## Table of Content
+  - [Installation](#installation)
+  - [Usage] (#usage)
+  - [Contributing] (#contributing)
+  - [Tests] (#tests)
+  - [Questions] (#questions)
+  - [License] (#license)
+
+  ## Installation
+
+  ## Usage
+
+  ## Contributing
+
+  ## Tests
+
+  ##Questions
+
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
 
 `;
 }
