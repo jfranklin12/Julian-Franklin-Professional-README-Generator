@@ -1,10 +1,10 @@
-# Julian Franklin Progessional README Generator
+# 
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   
-  This project is designed to allow users to create their own read me final using the terminal of their projext page.
+  
 
   ## Table of Content
   - [Installation](#installation)
@@ -20,11 +20,11 @@
 
   ## Usage
 
-  Feel free to download and use.
+  
 
   ## Contributing
 
-  This project is not accepting contriputions at this time.
+  
 
   ## Tests
   
@@ -32,10 +32,11 @@
 
   ## Questions
 
-  If you have any questions, contact me at j.franks725@gmail.com. Visit my GitHub page at [jfranklin12](https://github.com/jfranklin12/) to see my other projects.
+  If you have any questions, contact me at . Visit my GitHub page at [](https://github.com//) to see my other projects.
 
   ## Liscence
     
 This projected is licensed under MIT.
 
   https://opensource.org/licenses/MIT
+
