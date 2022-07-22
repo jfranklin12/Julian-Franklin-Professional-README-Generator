@@ -1,10 +1,10 @@
-# 
+# Nick's Pizza Competition
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
   ## Description
   
-  
+  Nick is having a pizza competition with himself
 
   ## Table of Content
   - [Installation](#installation)
@@ -20,11 +20,11 @@
 
   ## Usage
 
-  
+  Don't eat the pizza
 
   ## Contributing
 
-  
+  Don't
 
   ## Tests
   
@@ -32,11 +32,11 @@
 
   ## Questions
 
-  If you have any questions, contact me at . Visit my GitHub page at [](https://github.com//) to see my other projects.
+  If you have any questions, contact me at nicknack@pattywack.giveadogabone.com. Visit my GitHub page at [nicknack](https://github.com/nicknack/) to see my other projects.
 
   ## Liscence
     
-This projected is licensed under MIT.
+This projected is licensed under APACHE 2.0.
 
-  https://opensource.org/licenses/MIT
+  https://opensource.org/licenses/Apache-2.0
 

@@ -1,10 +1,10 @@
-# Julian Franklin Progessional README Generator
+# Julian Franklin Professional README Generator
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   
-  This project is designed to allow users to create their own read me final using the terminal of their projext page.
+  This project is designed to allow users to create their own read me final using the integrated terminal in their project.
 
   ## Table of Content
   - [Installation](#installation)
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  Feel free to download and use.
+  Feel free for use.
 
   ## Contributing
 
