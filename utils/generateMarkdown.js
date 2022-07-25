@@ -100,8 +100,6 @@ function generateMarkdown(data) {
 
   If you have any questions, contact me at ${data.email}. Visit my GitHub page at [${data.github}](https://github.com/${data.github}/) to see my other projects.
 
-  ## Liscence
-
   ${renderLicenseSection(data.license)}
 
   ${renderLicenseLink(data.license)}

@@ -1,10 +1,10 @@
-# Nick's Pizza Competition
+# Julian-Franklin-Note-Taker
 
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   
-  Nick is having a pizza competition with himself
+  This application is created to allow user to create and delete notes.
 
   ## Table of Content
   - [Installation](#installation)
@@ -20,11 +20,11 @@
 
   ## Usage
 
-  Don't eat the pizza
+  Feel free to use this application.
 
   ## Contributing
 
-  Don't
+  At this time, the project is not accepting contributions.
 
   ## Tests
   
@@ -32,11 +32,11 @@
 
   ## Questions
 
-  If you have any questions, contact me at nicknack@pattywack.giveadogabone.com. Visit my GitHub page at [nicknack](https://github.com/nicknack/) to see my other projects.
+  If you have any questions, contact me at j.franks725@gmail.com. Visit my GitHub page at [jfranklin12](https://github.com/jfranklin12/) to see my other projects.
 
   ## Liscence
     
-This projected is licensed under APACHE 2.0.
+This projected is licensed under MIT.
 
-  https://opensource.org/licenses/Apache-2.0
+  https://opensource.org/licenses/MIT
 

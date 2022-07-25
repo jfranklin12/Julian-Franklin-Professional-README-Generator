@@ -6,6 +6,10 @@
   
   This project is designed to allow users to create their own read me final using the integrated terminal in their project.
 
+  ![Generated README example](./assests/Generated-Readme.jpg)
+
+  ![Terminal Screenshot](./assests/terminal.jpg)
+
   ## Table of Content
   - [Installation](#installation)
   - [Usage](#usage)
