@@ -10,7 +10,7 @@
 
   ![Terminal Screenshot](./assests/terminal.jpg)
 
-  ![Creation of README Video](./assests/Untitled_%20Jul%2025%2C%202022%203_26%20PM.webm)
+  ![Creation of README Video](https://youtu.be/bkTGlF2CLXA)
 
   ## Table of Content
   - [Installation](#installation)
