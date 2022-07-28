@@ -10,7 +10,7 @@
 
   ![Terminal Screenshot](./assests/terminal.jpg)
 
-  [Creation of README Video](https://youtu.be/bkTGlF2CLXA)
+  [Creation of README Video](https://drive.google.com/file/d/1OX9IKHGp_kgQ9B41PQ3a5MMg-jOlVZID/view?usp=sharing)
 
   ## Table of Content
   - [Installation](#installation)
